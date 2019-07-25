@@ -1,8 +1,6 @@
 # CommunicationApps
 A desktop application providing several different communication interfaces.
 
-Markup :
-
 * Some applications featured in the project may require following hardware and software configurations in order to work supposedly:'''
 
          1. CAN_bus_gui
