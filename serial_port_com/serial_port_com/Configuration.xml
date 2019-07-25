@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tests>
+  <UUT1>
+    
+    <SerialTests>
+      <SerialPort1>
+        <baudrate>115200</baudrate>
+        <parity>None</parity>
+        <databits>8</databits>
+        <stopbits>One</stopbits>
+        <testdata>auto</testdata>
+        <type>RS422</type>
+        <testerPortName>COM3</testerPortName>
+        <uutPortname>CPU_RS422_0</uutPortname>
+      </SerialPort1>
+      <SerialPort2>
+        <baudrate>115200</baudrate>
+        <parity>None</parity>
+        <databits>8</databits>
+        <stopbits>One</stopbits>
+        <testdata>auto</testdata>
+        <type>RS422</type>
+        <testerPortName>COM4</testerPortName>
+        <uutPortname>CPU_RS422_1</uutPortname>
+      </SerialPort2>      
+    </SerialTests>
+
+   
+    
+    
+  </UUT1>
+ 
+</Tests>
